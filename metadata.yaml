@@ -1,0 +1,29 @@
+_repo: A-Day-with-Robert-Schumann_36472
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36472-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Byron, May Clarissa Gillington
+    aliases:
+    - Clare, Maurice
+    - Gillington, May Clarissa
+    - Gillington, M. C. (May Clarissa)
+    deathdate: 1936
+    gutenberg_agent_id: '34616'
+    url: http://www.gutenberg.org/2009/agents/34616
+description: ''
+gutenberg_issued: '2011-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36472'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schumann, Robert, 1810-1856'
+- !lcc 'ML'
+title: A Day with Robert Schumann
+url: http://www.gutenberg.org/ebooks/36472
